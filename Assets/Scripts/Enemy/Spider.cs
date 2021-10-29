@@ -14,7 +14,8 @@ public class Spider : Enemy
         {
             return;
         }
-
+        //this is to check that their oure current project is still working .
+        debug.log("hellow this is the github ");
         base.Update();
     }
 }
